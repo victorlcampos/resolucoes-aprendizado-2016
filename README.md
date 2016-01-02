@@ -25,6 +25,7 @@
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
+
 -------------------
 
 
@@ -36,6 +37,7 @@
 ## Ver 12 palestras no youtube (1/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
+
 -------------------
 
 
