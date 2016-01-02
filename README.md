@@ -36,7 +36,7 @@
 -------------------
 
 
-## Terminar meu livro sobre [Redmine](https://www.gitbook.com/book/victorlcampos/curso-redmine/details)(0/1)
+## Terminar de escrever meu livro sobre [Redmine](https://www.gitbook.com/book/victorlcampos/curso-redmine/details)(0/1)
 
 -------------------
 
