@@ -21,7 +21,9 @@
 -------------------
 
 
-## Ler 366 artigos (0/366)
+## Ler 366 artigos (1/366)
+
+1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 
 -------------------
 
@@ -31,7 +33,7 @@
 -------------------
 
 
-## Ver 12 palestras no youtube (0/12)
+## Ver 12 palestras no youtube (0/24)
 
 -------------------
 
@@ -51,6 +53,6 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#commits) (0/363)
+## Contribuir mais com o open source do que em 2015 (#commits) (1/363)
 
 -------------------
