@@ -56,6 +56,8 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#commits) (5/363)
+## Contribuir mais com o open source do que em 2015 (#pull requests) (1/27)
+1. https://github.com/lucasmazza/language-elixir/pull/26
+
 
 -------------------
