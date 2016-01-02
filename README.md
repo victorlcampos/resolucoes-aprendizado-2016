@@ -36,6 +36,10 @@
 -------------------
 
 
+## Terminar meu livro sobre [Redmine](https://www.gitbook.com/book/victorlcampos/curso-redmine/details)(0/1)
+
+-------------------
+
 ## Ver 24 palestras no youtube (1/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
