@@ -21,10 +21,10 @@
 -------------------
 
 
-## Ler 366 artigos (1/366)
+## Ler 366 artigos (2/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
-
+2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
 -------------------
 
 
@@ -33,8 +33,9 @@
 -------------------
 
 
-## Ver 12 palestras no youtube (0/24)
+## Ver 12 palestras no youtube (1/24)
 
+1. https://www.youtube.com/watch?v=3VoFq5lng_4
 -------------------
 
 
@@ -53,6 +54,6 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#commits) (1/363)
+## Contribuir mais com o open source do que em 2015 (#commits) (5/363)
 
 -------------------
