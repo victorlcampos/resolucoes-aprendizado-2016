@@ -21,13 +21,14 @@
 -------------------
 
 
-## Ler 366 artigos (5/366)
+## Ler 366 artigos (6/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
 3. http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/
 4. http://www.businessinsider.com/googles-ranking-system-okr-2014-1
 5. http://elm-lang.org/blog/blazing-fast-html
+6. http://pchiusano.github.io/2014-07-02/css-is-unnecessary.html
 
 -------------------
 
