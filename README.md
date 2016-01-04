@@ -11,7 +11,8 @@
 -------------------
 
 
-## Ler 3 Livros sobre business (0/3)
+## Ler 3 Livros sobre business (1/3)
+1. Fora de Série - Outliers
 
 -------------------
 
@@ -21,7 +22,7 @@
 -------------------
 
 
-## Ler 366 artigos (7/366)
+## Ler 366 artigos (8/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -30,6 +31,7 @@
 5. http://elm-lang.org/blog/blazing-fast-html
 6. http://pchiusano.github.io/2014-07-02/css-is-unnecessary.html
 7. https://github.com/elixir-lang/elixir/releases/tag/v1.2.0
+8. http://spectator.sme.sk/c/20067477/business-service-centres-seek-excellence.html
 
 -------------------
 
