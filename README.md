@@ -1,7 +1,7 @@
 # Resoluções de Aprendizado 2016
 
 
-## Voltar a estudar inglês (0/1)
+## Me matricular em um curso de Inglês ou professor particular (0/1)
 
 -------------------
 
