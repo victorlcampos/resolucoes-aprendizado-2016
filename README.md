@@ -33,6 +33,7 @@
 7. https://github.com/elixir-lang/elixir/releases/tag/v1.2.0
 8. http://spectator.sme.sk/c/20067477/business-service-centres-seek-excellence.html
 9. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
+10. https://blog.customelements.io/welcome-vaadin-as-our-first-sponsor-d99a1fade3d2#.qfgzwen8h
 
 -------------------
 
