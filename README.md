@@ -54,7 +54,9 @@
 -------------------
 
 
-## Gravar 12 vídeos (0/12)
+## Gravar 12 vídeos (1/12)
+
+1. https://www.youtube.com/watch?v=CV2hL8MlkbQ
 
 -------------------
 
