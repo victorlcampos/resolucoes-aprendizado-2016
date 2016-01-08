@@ -22,7 +22,7 @@
 -------------------
 
 
-## Ler 366 artigos (9/366)
+## Ler 366 artigos (12/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -34,6 +34,8 @@
 8. http://spectator.sme.sk/c/20067477/business-service-centres-seek-excellence.html
 9. https://www.linkedin.com/pulse/growth-hacking-mudamos-uma-frase-e-melhoramos-em-48-taxa-marco-gomes
 10. https://blog.customelements.io/welcome-vaadin-as-our-first-sponsor-d99a1fade3d2#.qfgzwen8h
+11. https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.90jc51l6a
+12. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.cfdlz8yqs
 
 -------------------
 
