@@ -38,6 +38,7 @@
 12. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.cfdlz8yqs
 13. http://matthewlehner.net/using-webpack-with-phoenix-and-elixir/
 14. http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
+15. http://thepracticaldev.com/dhh-on-the-future-of-rails
 
 -------------------
 
