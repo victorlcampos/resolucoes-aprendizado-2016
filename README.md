@@ -22,7 +22,7 @@
 -------------------
 
 
-## Ler 366 artigos (12/366)
+## Ler 366 artigos (14/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -36,6 +36,8 @@
 10. https://blog.customelements.io/welcome-vaadin-as-our-first-sponsor-d99a1fade3d2#.qfgzwen8h
 11. https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.90jc51l6a
 12. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.cfdlz8yqs
+13. http://matthewlehner.net/using-webpack-with-phoenix-and-elixir/
+14. http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
 
 -------------------
 
