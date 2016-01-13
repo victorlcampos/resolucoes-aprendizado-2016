@@ -22,7 +22,7 @@
 -------------------
 
 
-## Ler 366 artigos (17/366)
+## Ler 366 artigos (16/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -40,7 +40,6 @@
 14. http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
 15. http://thepracticaldev.com/dhh-on-the-future-of-rails
 16. https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.awv7o6d3f
-17. https://github.com/hassox/guardian_db/pull/6
 
 -------------------
 
@@ -79,9 +78,9 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#pull requests) (2/27)
+## Contribuir mais com o open source do que em 2015 (#pull requests) (3/27)
 1. https://github.com/lucasmazza/language-elixir/pull/26
 2. https://github.com/h4cc/awesome-elixir/pull/1467
-
+3. https://github.com/hassox/guardian_db/pull/6
 
 -------------------
