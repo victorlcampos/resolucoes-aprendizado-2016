@@ -46,7 +46,9 @@
 -------------------
 
 
-## Escrever 12 artigos (0/12)
+## Escrever 12 artigos (1/12)
+
+1. http://chocoladesign.com/como-escolher-metas-s-m-a-r-t-para-2016
 
 -------------------
 
