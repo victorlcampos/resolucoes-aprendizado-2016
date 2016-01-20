@@ -22,7 +22,7 @@
 -------------------
 
 
-## Ler 366 artigos (19/366)
+## Ler 366 artigos (20/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -43,6 +43,7 @@
 17. http://chiefofdesign.com.br/guia-tipografia-parte-03/
 18. https://medium.com/@joridos/aprendendo-elixir-f0ae765035e#.kbyb4hgxw
 19. https://aerotwist.com/blog/flip-your-animations/
+20. http://www.blackbytes.info/2016/01/ruby-tricks/
 
 -------------------
 
