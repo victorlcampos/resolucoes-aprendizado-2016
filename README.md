@@ -11,8 +11,9 @@
 -------------------
 
 
-## Ler 3 Livros sobre business (1/3)
+## Ler 3 Livros sobre business (2/3)
 1. Fora de Série - Outliers
+2. Freakonomic
 
 -------------------
 
