@@ -73,7 +73,7 @@
 -------------------
 
 
-## Gravar 12 vídeos (1/12)
+## Gravar 12 vídeos (2/12)
 
 1. https://www.youtube.com/watch?v=CV2hL8MlkbQ
 2. https://www.youtube.com/watch?v=xMLehnk4mdc
