@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (24/366)
+## Ler 366 artigos (25/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -49,6 +49,7 @@
 22. https://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application/
 23. http://rubyonrails.org/doctrine/
 24. https://t.co/sFJB6ELhYl
+25. http://willianjusten.com.br/falando-sobre-rscss/
 
 -------------------
 
