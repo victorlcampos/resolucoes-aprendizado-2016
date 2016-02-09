@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (26/366)
+## Ler 366 artigos (27/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -51,6 +51,7 @@
 24. https://t.co/sFJB6ELhYl
 25. http://willianjusten.com.br/falando-sobre-rscss/
 26. https://mixpanel.com/blog/2016/02/04/why-most-a-b-tests-give-you-bullshit-results
+27. http://www.infoq.com/br/news/2014/12/expressjs-burned-netflix
 
 -------------------
 
