@@ -53,6 +53,7 @@
 26. https://mixpanel.com/blog/2016/02/04/why-most-a-b-tests-give-you-bullshit-results
 27. http://www.infoq.com/br/news/2014/12/expressjs-burned-netflix
 28. http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/
+29. https://medium.com/@joshuantaylor/designers-shouldn-t-code-they-should-study-business-dc3e7e203d39#.zeh22r1c1
 
 -------------------
 
