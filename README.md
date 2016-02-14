@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (30/366)
+## Ler 366 artigos (31/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -55,6 +55,7 @@
 28. http://clovisdasilvaneto.github.io/pare-de-usar-javascript-para-tudo/
 29. https://medium.com/@joshuantaylor/designers-shouldn-t-code-they-should-study-business-dc3e7e203d39#.zeh22r1c1
 30. https://jakearchibald.com/2016/link-in-body/
+31. https://medium.com/infinite-red/phoenix-is-rails-5-f6d28e57395#.me1h5zs3p
 
 -------------------
 
