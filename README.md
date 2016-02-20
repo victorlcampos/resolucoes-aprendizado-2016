@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (32/366)
+## Ler 366 artigos (33/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -57,6 +57,7 @@
 30. https://jakearchibald.com/2016/link-in-body/
 31. https://medium.com/infinite-red/phoenix-is-rails-5-f6d28e57395#.me1h5zs3p
 32. http://wcalderipe.com/complexidade-ciclomatica-early-return/
+33. https://codingkilledthecat.wordpress.com/2012/04/28/why-your-company-shouldnt-use-git-submodules/
 
 -------------------
 
