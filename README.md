@@ -101,11 +101,12 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#pull requests) (5/27)
+## Contribuir mais com o open source do que em 2015 (#pull requests) (6/27)
 1. https://github.com/lucasmazza/language-elixir/pull/26
 2. https://github.com/h4cc/awesome-elixir/pull/1467
 3. https://github.com/hassox/guardian_db/pull/6
 4. https://github.com/socialpullrequest/socialpullrequest/pull/9
 5. https://github.com/ueberauth/guardian/pull/109
+6. https://github.com/thaisviana/AlgPedia/pull/1
 
 -------------------
