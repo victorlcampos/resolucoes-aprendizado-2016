@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (31/366)
+## Ler 366 artigos (32/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
