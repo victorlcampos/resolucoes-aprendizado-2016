@@ -23,7 +23,7 @@
 -------------------
 
 
-## Ler 366 artigos (35/366)
+## Ler 366 artigos (36/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -60,6 +60,7 @@
 33. https://codingkilledthecat.wordpress.com/2012/04/28/why-your-company-shouldnt-use-git-submodules/
 34. http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/
 35. http://www.akitaonrails.com/2016/02/22/beware-server-side-apis-for-client-side-rendering-and-cross-site-scripting-xss
+36. http://nomadev.com.br/responsive-design-como-fazer-v%C3%ADdeos-do-youtube-responsivos/
 
 -------------------
 
