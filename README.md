@@ -18,7 +18,8 @@
 -------------------
 
 
-## Ler 3 Livros sobre desenvolvimento (0/3)
+## Ler 3 Livros sobre desenvolvimento (1/3)
+1. Programming Phoenix
 
 -------------------
 
