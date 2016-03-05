@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 366 artigos (36/366)
+## Ler 366 artigos (37/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -62,6 +62,7 @@
 34. http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/
 35. http://www.akitaonrails.com/2016/02/22/beware-server-side-apis-for-client-side-rendering-and-cross-site-scripting-xss
 36. http://nomadev.com.br/responsive-design-como-fazer-v%C3%ADdeos-do-youtube-responsivos/
+37. https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.huvlh2cu1
 
 -------------------
 
