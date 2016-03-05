@@ -63,6 +63,7 @@
 35. http://www.akitaonrails.com/2016/02/22/beware-server-side-apis-for-client-side-rendering-and-cross-site-scripting-xss
 36. http://nomadev.com.br/responsive-design-como-fazer-v%C3%ADdeos-do-youtube-responsivos/
 37. https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.huvlh2cu1
+38. https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.ljmyzshmn
 
 -------------------
 
