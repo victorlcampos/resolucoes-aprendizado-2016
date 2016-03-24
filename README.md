@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 366 artigos (37/366)
+## Ler 366 artigos (39/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -64,6 +64,7 @@
 36. http://nomadev.com.br/responsive-design-como-fazer-v%C3%ADdeos-do-youtube-responsivos/
 37. https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.huvlh2cu1
 38. https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.ljmyzshmn
+39. https://www.devbattles.com/en/sand/post-2595-User_Experience_explained_in_5_minutes_for_newbie_front_end_developers
 
 -------------------
 
