@@ -1,12 +1,14 @@
 # Resoluções de Aprendizado 2016
 
 
-## Me matricular em um curso de Inglês ou professor particular (0/1)
+## Me matricular em um curso de Inglês ou professor particular (1/1)
+1. Englishtown
 
 -------------------
 
 
-## Ler 3 Livros sobre design (0/3)
+## Ler 3 Livros sobre design (1/3)
+1. Don't Make Me Think
 
 -------------------
 
