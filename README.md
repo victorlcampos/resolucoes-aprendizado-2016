@@ -26,7 +26,7 @@
 -------------------
 
 
-## Ler 366 artigos (39/366)
+## Ler 366 artigos (41/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -67,6 +67,8 @@
 37. https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.huvlh2cu1
 38. https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.ljmyzshmn
 39. https://www.devbattles.com/en/sand/post-2595-User_Experience_explained_in_5_minutes_for_newbie_front_end_developers
+40. https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.8skvy2rdb
+41. http://plan.io/blog/post/144252164513/7-tips-on-how-to-build-better-websites
 
 -------------------
 
@@ -82,7 +84,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (8/24)
+## Ver 24 palestras no youtube (9/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
 2. https://www.youtube.com/watch?v=xsSnOQynTHs
@@ -92,6 +94,7 @@
 6. https://www.youtube.com/watch?v=zl7FjvwK14M
 7. http://www.infoq.com/br/presentations/atomic-design-behavior#.Vs8u1AUsPVo.twitter
 8. https://www.youtube.com/watch?v=ejsJ1yFNcB8
+9. https://www.youtube.com/watch?v=czes-oa0yik&feature=youtu.be&t%3D2
 
 -------------------
 
