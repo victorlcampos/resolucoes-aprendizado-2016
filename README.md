@@ -117,7 +117,7 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#pull requests) (9/27)
+## Contribuir mais com o open source do que em 2015 (#pull requests) (10/27)
 1. https://github.com/lucasmazza/language-elixir/pull/26
 2. https://github.com/h4cc/awesome-elixir/pull/1467
 3. https://github.com/hassox/guardian_db/pull/6
@@ -127,5 +127,6 @@
 7. https://github.com/visagio/redmine_bpm_integration/pull/12
 8. https://github.com/visagio/redmine_bpm_integration/pull/13
 9. https://github.com/visagio/redmine_bpm_integration/pull/14
+10. https://github.com/visagio/redmine_bpm_integration/pull/18
 
 -------------------
