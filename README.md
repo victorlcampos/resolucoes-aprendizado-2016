@@ -84,7 +84,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (9/24)
+## Ver 24 palestras no online (9/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
 2. https://www.youtube.com/watch?v=xsSnOQynTHs
@@ -95,6 +95,7 @@
 7. http://www.infoq.com/br/presentations/atomic-design-behavior#.Vs8u1AUsPVo.twitter
 8. https://www.youtube.com/watch?v=ejsJ1yFNcB8
 9. https://www.youtube.com/watch?v=czes-oa0yik&feature=youtu.be&t%3D2
+10. Apresentações Efetivas – Parte 1 (SAP Webcast)
 
 -------------------
 
