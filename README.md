@@ -26,7 +26,7 @@
 -------------------
 
 
-## Ler 366 artigos (42/366)
+## Ler 366 artigos (43/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -70,6 +70,7 @@
 40. https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.8skvy2rdb
 41. http://plan.io/blog/post/144252164513/7-tips-on-how-to-build-better-websites
 42. https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+43. http://www.fidelis.work/a-historia-de-uma-falha-de-seguranca-de-16-milhoes-de-reais/
 
 -------------------
 
@@ -85,7 +86,7 @@
 
 -------------------
 
-## Ver 24 palestras no online (9/24)
+## Ver 24 palestras no online (10/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
 2. https://www.youtube.com/watch?v=xsSnOQynTHs
