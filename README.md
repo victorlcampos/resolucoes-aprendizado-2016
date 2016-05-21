@@ -26,7 +26,7 @@
 -------------------
 
 
-## Ler 366 artigos (41/366)
+## Ler 366 artigos (42/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -69,6 +69,7 @@
 39. https://www.devbattles.com/en/sand/post-2595-User_Experience_explained_in_5_minutes_for_newbie_front_end_developers
 40. https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.8skvy2rdb
 41. http://plan.io/blog/post/144252164513/7-tips-on-how-to-build-better-websites
+42. https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 -------------------
 
