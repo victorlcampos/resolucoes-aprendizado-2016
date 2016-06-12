@@ -26,7 +26,7 @@
 -------------------
 
 
-## Ler 366 artigos (44/366)
+## Ler 366 artigos (52/366)
 
 1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
 2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
@@ -72,6 +72,14 @@
 42. https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 43. http://www.fidelis.work/a-historia-de-uma-falha-de-seguranca-de-16-milhoes-de-reais/
 44. http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
+45. http://blog.ionic.io/what-is-a-progressive-web-app/
+46. http://daniel-azuma.com/blog/2016/05/07/family-ties-1-comparing-erlang-and-elixir?utm_campaign=elixir_radar_51&utm_medium=email&utm_source=RD+Station
+47. https://zeit.co/blog/async-and-await?utm_source=javascriptweekly&utm_medium=email
+48. http://blog.rokkincat.com/parsing-udp-in-elixir-with-binary-pattern-matching/?utm_campaign=elixir_radar_51&utm_medium=email&utm_source=RD+Station
+49. http://blog.ifyouseewendy.com/blog/2015/11/11/preload-eager_load-includes-references-joins/
+50. http://daniel-azuma.com/blog/2016/05/08/family-ties-2-a-tale-of-three-asts
+51. http://blog.plataformatec.com.br/2016/03/using-gettext-to-internationalize-a-phoenix-application/
+52. http://alistapart.com/article/making-your-javascript-pure?utm_source=javascriptweekly&utm_medium=email
 
 -------------------
 
@@ -87,7 +95,7 @@
 
 -------------------
 
-## Ver 24 palestras no online (10/24)
+## Ver 24 palestras onlines (12/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
 2. https://www.youtube.com/watch?v=xsSnOQynTHs
@@ -99,14 +107,17 @@
 8. https://www.youtube.com/watch?v=ejsJ1yFNcB8
 9. https://www.youtube.com/watch?v=czes-oa0yik&feature=youtu.be&t%3D2
 10. Apresentações Efetivas – Parte 1 (SAP Webcast)
+11. Apresentações Efetivas – Parte 2 (SAP Webcast)
+12. https://www.youtube.com/watch?v=uPaKCFkGNuk
 
 -------------------
 
 
-## Gravar 12 vídeos (2/12)
+## Gravar 12 vídeos (3/12)
 
 1. https://www.youtube.com/watch?v=CV2hL8MlkbQ
 2. https://www.youtube.com/watch?v=xMLehnk4mdc
+3. Monitoramento de Aplicação e Servidores - Introdução (UniVisagio)
 
 -------------------
 
@@ -116,7 +127,9 @@
 -------------------
 
 
-## Palestrar 2 vezes (0/2)
+## Palestrar 2 vezes (2/2)
+1. Abertura Workshop de Novas Tecnologias
+2. Gerenciamento de Crise (Workshop VTec)
 
 -------------------
 
