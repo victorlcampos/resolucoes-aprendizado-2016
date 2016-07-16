@@ -122,14 +122,17 @@
 -------------------
 
 
-## Participar de um evento de computação (0/1)
+## Participar de um evento de computação (1/1)
+1. Forum Internacional de Software Livre (#Fisl17)
 
 -------------------
 
 
-## Palestrar 2 vezes (2/2)
+## Palestrar 2 vezes (4/2)
 1. Abertura Workshop de Novas Tecnologias
 2. Gerenciamento de Crise (Workshop VTec)
+3. Semana da computação UFRJ
+4. [Forum Internacional de Software Livre (#Fisl17)](visag.io/NTA)
 
 -------------------
 
