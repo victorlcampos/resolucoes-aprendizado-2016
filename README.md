@@ -156,7 +156,7 @@
 
 -------------------
 
-## Ver 24 palestras onlines (15/24)
+## Ver 24 palestras onlines (16/24)
 
 1. https://www.youtube.com/watch?v=3VoFq5lng_4
 2. https://www.youtube.com/watch?v=xsSnOQynTHs
@@ -173,15 +173,18 @@
 13. https://www.youtube.com/watch?v=uPaKCFkGNuk&feature=youtu.be&utm_campaign=tecnologia_webinar__visualizacao_de_dados_-_email_para_ausentes&utm_medium=email&utm_source=RD+Station
 14. https://www.youtube.com/watch?v=-5wpm-gesOY&feature=youtu.be
 15. https://www.ted.com/talks/riccardo_sabatini_how_to_read_the_genome_and_build_a_human_being?language=pt-br#t-778401
+16. http://www.uipath.com/tutorials
 
 -------------------
 
 
-## Gravar 12 vídeos (3/12)
+## Gravar 12 vídeos (5/12)
 
 1. https://www.youtube.com/watch?v=CV2hL8MlkbQ
 2. https://www.youtube.com/watch?v=xMLehnk4mdc
 3. Monitoramento de Aplicação e Servidores - Introdução (UniVisagio)
+4. Construindo um plugin com Redmine - Parte 1 (Univisagio)
+5. Monitorando seus logs com request-log-analyzer (Univisagio)
 
 -------------------
 
